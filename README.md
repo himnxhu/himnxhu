@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=himnxhu&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himnxhu&show_icons=true&theme=radical)
 
 ---
 
