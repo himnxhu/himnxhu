@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Himanshu Upadhyay
 
-<!--
-**himnxhu/himnxhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science)  
+💻 Passionate about AI, Data Science & Software Development  
+🚀 Building projects with Python, Java & Web Technologies  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- Python
+- Java
+- JavaScript
+- React
+- SQL
+- Machine Learning
+
+---
+
+### 📊 GitHub Stats
+
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+
+---
+
+### 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Email
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
