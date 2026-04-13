@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himnxhu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himnxhu&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
@@ -32,7 +32,7 @@
 
 - 🔗 LinkedIn: [Linked IN](https://www.linkedin.com/in/himanshu-upadhyay-190170205/)
 - 🌐 Portfolio: [Portfolio](https://yourportfolio.com)
-- 📧 Email: [Mail Me](Upadhyayhimanshu842@gmail.com)
+- 📧 Email: [Mail Me](mailto:Upadhyayhimanshu842@gmail.com)
  
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
