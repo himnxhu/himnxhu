@@ -18,22 +18,22 @@
 
 ### 📊 GitHub Stats
 
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanxhu&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himnxhu&theme=radical)
 
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn
-- Portfolio
-- Email
-
+- 🔗 LinkedIn: [Linked IN]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/himanshu-upadhyay-190170205/))
+- 🌐 Portfolio: [Portfolio](https://yourportfolio.com)
+- 📧 Email: [Mail Me](Upadhyayhimanshu842@gmail.com)
+- 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
